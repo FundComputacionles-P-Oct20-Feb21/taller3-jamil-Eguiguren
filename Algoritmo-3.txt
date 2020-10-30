@@ -1,0 +1,5 @@
+1.Inicio
+2.Se pide ingresar los valores que se desean multiplicar.
+3.Se realiza la multiplicacion entre los valores ingresados.
+4.Se muestra el valor obtenido en la multiplicacion.
+5.FIn.

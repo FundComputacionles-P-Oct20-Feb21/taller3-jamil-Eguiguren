@@ -1,0 +1,5 @@
+1.Inicio.
+2.Se pide insertar los gastos de cada hijo.
+3.Se realiza una suma entre las tres cantidades ingrsadas.
+5.Se muestra el resultado de la suma.
+6.Fin

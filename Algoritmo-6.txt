@@ -1,0 +1,7 @@
+1.Inicio.
+2.Ingresar el valor total del prestmo.
+3.Se divide el valor del prestmo por doce.
+4.Ingresar el valor del interés mensual.
+5.Se suma el valor del interes con el de la division del prestamo.
+6.Se muestra la cantidad de la suma.
+7.Fin.

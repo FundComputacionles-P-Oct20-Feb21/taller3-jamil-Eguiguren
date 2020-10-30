@@ -1,0 +1,9 @@
+1.Inicio
+2.Ingresar la edad del usuario.
+3.Ingresar el valor de costo por kilovatio/hora.
+4.Ingresar el número de kilovatios consumidos en el mes.
+5.Multiplicar los dos valores ingresados.
+6.Si es mayor de los 65 años calcular el 10%.
+7.Se resta el 10% al valor obtenido en la multiplicion.
+8.Se muestra el resultado en pantalla.
+9.Fin.

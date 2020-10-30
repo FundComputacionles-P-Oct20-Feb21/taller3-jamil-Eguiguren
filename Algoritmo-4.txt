@@ -1,0 +1,6 @@
+1.Inicio
+2.Ingresar el costo por minutos.
+3.Ingresarnúmero de minutos consumidos en el mes.
+4.Se multiplica los dos valores ingresados.
+5.Se muestra el valor que se obtuvo en la multiplicacion.
+6.Fin.

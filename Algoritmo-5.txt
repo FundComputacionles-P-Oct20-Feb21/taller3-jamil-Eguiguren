@@ -1,0 +1,8 @@
+1.Inicio.
+2.Se pide ingrasar el valor de la CPU.
+3.Se pide ingrasar el valor del teclado.
+4.Se pide ingrasar el valor de la pantalla.
+5.Se pide ingrasar el valor del ratón.
+6.Se suman todos los valores obtenidos.
+7.Se muestra la cantidad que se obtiene de la suma.
+8.Fin.

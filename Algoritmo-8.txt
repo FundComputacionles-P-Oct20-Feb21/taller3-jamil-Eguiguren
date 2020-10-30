@@ -1,0 +1,11 @@
+1.Inicio.
+2.Ingresar la edad.
+3.Ingresar el valor a pagar de netflix.
+4.Ingresar el valor a pagar de youtube premium.
+5.Ingresar el valor a pagar de dropbox.
+6.Ingresar el valor a pagar de spotify.
+7.Se suman todos los valores obtenidos.
+8.6.Si es menor de los 30 años calcular el 20%. 
+9.Se resta el 120% al valor obtenido en la suma.
+10.Se muestra el resultado en pantalla.
+11.Fin.

@@ -1,0 +1,7 @@
+1.Inicio. 
+2.Se pide el valor de la base del triangulo.
+3.Se pide la altura del triangulo. 
+4.Se multiplica base por altura.
+5.Se divide por dos el resultado de la multiplicacion.
+6.Se presenta el resultado de la division.
+7.Fin.
